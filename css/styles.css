@@ -16,10 +16,13 @@ header {
     padding: 0;
 }
 
+.nav-item {
+    padding-left: 3em;
+}
+
 .nav-link {
     color: hsl(236, 13%, 42%);
     font-size: 1.5em;
-    font-weight: 400;
 }
 
 .offcanvas-header {
@@ -44,7 +47,7 @@ h1 {
 
 main p {
     color: hsl(236, 13%, 42%);
-    font-size: 1.7em;
+    font-size: 1.6em;
 }
 
 main .btn {
@@ -73,6 +76,8 @@ main .btn:hover {
     color: hsl(35, 77%, 62%);
     font-size: 4em;
     font-weight: 700;
+    margin-bottom: 0.5em;
+    width: 100%;
 }
 
 .aside a {
