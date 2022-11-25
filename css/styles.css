@@ -5,7 +5,7 @@
 body {
     font-family: 'Inter', sans-serif;
     font-size: 62.5%;
-    padding: 5% 10%;
+    /* padding: 5% 10%; */
 }
 
 header {
@@ -101,4 +101,30 @@ aside hr {
     color: hsl(233, 8%, 79%);
     border-width: 1.3px;
     width: 100%;
+}
+
+footer h2 {
+    color: hsl(233, 8%, 79%);
+    font-weight: 700;
+}
+
+footer a {
+    color: hsl(240, 100%, 5%);
+    font-size: 1.8em;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: hsl(5, 85%, 63%);
+}
+
+footer p {
+    color: hsl(236, 13%, 42%);
+    font-size: 1.6em;
+    margin: 0.25em 0 0;
+}
+
+footer img {
+    width: 90%;
 }
