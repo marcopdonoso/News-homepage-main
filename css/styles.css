@@ -128,3 +128,11 @@ footer p {
 footer img {
     width: 90%;
 }
+
+.attribution {
+    font-size: 1.5em; text-align: center;
+}
+.attribution a {
+    font-size: 1.2em;
+    color: hsl(228, 45%, 44%);
+}
